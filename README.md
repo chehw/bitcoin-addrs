@@ -46,8 +46,8 @@ Optional dependencies:
 
 ## run
 	### print usuage
-    $ bin/bin/pubkey_to_addrs --help
+    $ bin/pubkey_to_addrs --help
     
     ### run
-    $ bin/bin/pubkey_to_addrs "(pubkey_hex)"
+    $ bin/pubkey_to_addrs "(pubkey_hex)"
 
